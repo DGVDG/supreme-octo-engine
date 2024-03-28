@@ -1,9 +1,1 @@
-![Screenshot_20240327_225011](https://github.com/DGVDG/supreme-octo-engine/assets/103759047/d322f9d4-563b-41ff-95d3-bed339d62b2d1
-![Screenshot_20240327_225020](https://github.com/DGVDG/supreme-octo-engine/assets/103759047/7685e52e-3172-4843-a409-c61f02ad18b6)
-![Screenshot_20240327_225033](https://github.com/DGVDG/supreme-octo-engine/assets/103759047/d782707f-7505-4f7e-91e3-3037de154a59)
-![Screenshot_20240327_225043](https://github.com/DGVDG/supreme-octo-engine/assets/103759047/34994f11-b5ba-41c7-aa68-86a9d1ad6c53)
-![Screenshot_20240327_225050](https://github.com/DGVDG/supreme-octo-engine/assets/103759047/e391f50f-7f0c-4584-b7ed-ae41e16c28021
-![Screenshot_20240327_225100](https://github.com/DGVDG/supreme-octo-engine/assets/103759047/bd98bb36-7f6c-4485-929c-c2d095cb96c4)
-![Screenshot_20240327_225110](https://github.com/DGVDG/supreme-octo-engine/assets/103759047/e7b2927d-f07e-4977-9178-a61cb3302a0b)
-![Screenshot_20240327_225117](https://github.com/DGVDG/supreme-octo-engine/assets/103759047/d5607017-45cf-4a11-8538-631705698c411
-![Screenshot_20240327_224808](https://github.com/DGVDG/supreme-octo-engine/assets/103759047/708b93a8-2e1d-42c1-86ee-502a3ec52a4f1
+
